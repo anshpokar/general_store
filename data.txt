@@ -1,0 +1,6 @@
+101	juice	27	20
+102	chips	50	20
+103	banana	40	12
+104	Kurkure	20	50
+105	apple	80	25
+105	kella	45	25
